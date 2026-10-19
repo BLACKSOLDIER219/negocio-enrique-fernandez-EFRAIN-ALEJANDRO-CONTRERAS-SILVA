@@ -1,5 +1,7 @@
 ﻿# Proyecto WEB III: Negocio
 
+Estado del proyecto: documentación, base de datos SQL y frontend implementados.
+
 ## Datos del estudiante
 - Nombres: EFRAIN ALEAJANDRO CONTRERAS SILVA
 - Paralelo: 3
